@@ -1,0 +1,20 @@
+[
+    {
+        "First_Name": "ammu",
+        "Last_Name": "easwaran",
+        "Roll_Number": "18cs005",
+        "DOB": "04/05/2001",
+        "Gender": "F",
+        "Phone": "9596778821",
+        "Mail": "ammu@gmail.com"
+    },
+    {
+        "First_Name": "Kalki",
+        "Last_Name": "nethaji",
+        "Roll_Number": "18cs009",
+        "DOB": "21/03/2000",
+        "Gender": "M",
+        "Phone": "9629399932",
+        "Mail": "kalki@gmail.com"
+    }
+]
